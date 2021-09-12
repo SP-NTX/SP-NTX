@@ -6,7 +6,9 @@ I am FlightGear Pilot and developer, i like open source and Linux :)
 <li>Some aircrafts for FlightGear</li>
 <li>Some Liveries</li>
 <li>Custom Scenery</li>
+
 ### My tasklist for FlightGear stuff:
+
 - [x] 737-400
 - [ ] 747-400 Liveries rework
 - [ ] 737 Max 8
