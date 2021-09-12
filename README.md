@@ -1,5 +1,5 @@
 # SP-NTX
-! [l] (SP-NTX-logotype.png)
+![obraz](SP-NTX-logotype.png)
 I am FlightGear Pilot and developer, i like open source and Linux :)
 ## I'm actually working on:
 <li>747-400</li>
