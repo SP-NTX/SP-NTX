@@ -7,6 +7,4 @@ I am FlightGear Pilot and developer, i like open source and Linux :)
 <li>Some aircrafts for FlightGear</li>
 <li>Some Liveries</li>
 <li>Custom Scenery</li>
-- [x] anything
-- [ ] something
-- [ ] notanother
+-[x]Test
