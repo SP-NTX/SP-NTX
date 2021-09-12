@@ -16,3 +16,4 @@ I am FlightGear Pilot and developer, i like open source and Linux :)
 - [ ] Aerolite 103
 - [ ] FlightGear Warsaw CustomScenery
 - [ ] PZL 104 Wilga
+- [ ] Sailboat to Flight Simulator :joy:
