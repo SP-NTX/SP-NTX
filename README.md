@@ -1,4 +1,4 @@
-
+- [ ] test?
 ![image](SP-NTX-logotype.png)
 I am FlightGear Pilot and developer, i like open source and Linux :)
 ## I'm actually working on:
@@ -7,4 +7,3 @@ I am FlightGear Pilot and developer, i like open source and Linux :)
 <li>Some aircrafts for FlightGear</li>
 <li>Some Liveries</li>
 <li>Custom Scenery</li>
--[x]Test
