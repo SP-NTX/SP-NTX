@@ -17,3 +17,6 @@ I am FlightGear Pilot and developer, i like open source and Linux :)
 - [ ] FlightGear Warsaw CustomScenery
 - [ ] PZL 104 Wilga
 - [ ] Sailboat to Flight Simulator :joy:
+
+### Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SP-NTX)](https://github.com/anuraghazra/github-readme-stats)
