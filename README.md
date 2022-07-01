@@ -1,4 +1,4 @@
-![image](EF2000.png)
+![image](EF2000.JPG)
 I am FlightGear Pilot and developer, i like open source and Linux :)
 ## I'm actually working on:
 <li>747-400</li>
