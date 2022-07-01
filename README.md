@@ -1,5 +1,5 @@
 ![image](EF2000.JPG)
-I am FlightGear Pilot and developer, i like open source and Linux :)
+I am FlightGear Pilot and developer, i like open source and Linux :)    And as you can see above, im also plane spotter :D
 ## I'm actually working on:
 <li>747-400</li>
 <li>737 Family</li>
